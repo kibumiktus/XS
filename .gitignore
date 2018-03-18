@@ -1,0 +1,9 @@
+/XS.Test/obj/
+/packages/
+/.vs/
+/XS.Test/bin/
+/XS.Console/bin/
+/XS.Console/obj/
+/XS.Core/obj/
+/XS.Core.sln.DotSettings.user
+/XS.Core/bin/
